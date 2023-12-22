@@ -3,6 +3,8 @@ flows:
     author: anonymous, created: 1703244998820, flowName: Templates, flowDesc: Templates}
   686c7828-cdd7-4d23-a2c5-4d8f643f23dc: {ver: 1, file: GroupFormations.snapshot, comments: GroupFormations,
     author: anonymous, created: 1703244830310, flowName: GroupFormations, flowDesc: GroupFormations}
+  1f672680-a5f3-4b95-83a8-157c29a6c9b7: {ver: 1, file: Ateliers.snapshot, comments: Ateliers,
+    author: anonymous, created: 1703245044002, flowName: Ateliers, flowDesc: Ateliers}
   82da73f5-a3b1-4ef5-aaf1-09a0a9f3d56e: {ver: 1, file: Formation.snapshot, comments: Formation,
     author: anonymous, created: 1703245022355, flowName: Formation, flowDesc: Formation}
 layoutVer: 1
